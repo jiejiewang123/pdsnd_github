@@ -12,3 +12,4 @@ chicago.csv, new_york_city.csv, washington.csv
 
 ### Credits
 https://classroom.udacity.com/nanodegrees/nd104/parts/53470233-d93c-4a31-a59f-11388272fe6b
+https://knowledge.udacity.com/?nanodegree=nd104&page=1&project=510&rubric=2118&sort=SCORE
