@@ -20,7 +20,7 @@ def get_filters():
     cities = ['chicago', 'new york city', 'washington']
     city = ''
     while city not in cities:
-        city = input("Please input the city name, chicago, new york city or washington: ").lower()
+        city = input("Please input one of the city names of chicago, new york city or washington: ").lower()
     print(city)
     # TO DO: get user input for month (all, january, february, ... , june)
     months = ['all', 'january', 'february', 'march', 'april', 'may', 'june', 'august', 'september', 'october', 'november', 'december']
